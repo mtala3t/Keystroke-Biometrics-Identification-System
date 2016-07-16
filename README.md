@@ -1,5 +1,5 @@
 # Keystroke-Biometrics-Identification-System
-This is a simple keystroke biometrics identification system implemented. It is a Java GUI application and MySQL DB. 
+This is a simple keystroke biometrics identification system. It is a Java GUI application and MySQL DB. 
 
 The application covers the training and the user identification modules. It uses the user latency between keboard keystrokes as an identification feature for different users.
 
