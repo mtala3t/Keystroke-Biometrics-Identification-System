@@ -12,3 +12,5 @@ Keystroke biometric technique is one of these ideas that can provide us with bet
 The used IDE is eclipse (I uploaded all project artifacts), also the executable JAR file and the MySQL DB script are uploaded.
 
 If you have any questions or want to continue this project feel free to do so :)
+
+Please visit my website. http://www.mohamedtalaat.net/
